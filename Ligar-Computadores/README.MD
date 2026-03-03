@@ -26,7 +26,7 @@ Ative a opção e defina os dias da semana e o horário desejado.
 
 Pressione F10 para salvar e sair.
 
-!(Projetos-Ints/Ligar-Computadores/confighp.jpg)
+!(img/Projetos-Ints/Ligar-Computadores/confighp.jpg)
 
 ---
 
