@@ -1,7 +1,7 @@
 
 # 🖥️ Projeto: Auto-Power-On Hospitalar (BIOS/UEFI)
 
-![Status do Projeto](https://img.shields.io/badge/Status-Em%20Desenvolvimento-blue)
+
 ![Ambiente](https://img.shields.io/badge/Ambiente-Hospitalar-red)
 
 Este repositório documenta a implementação e automação do ligamento agendado de computadores via **RTC (Real-Time Clock)** na BIOS/UEFI. O objetivo é otimizar o fluxo de trabalho da equipe de saúde, garantindo que as estações de trabalho estejam prontas para uso antes do início do plantão.
